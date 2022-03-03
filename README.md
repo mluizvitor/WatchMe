@@ -1,6 +1,6 @@
 ![desktop](.github/desktop.png)
 
-# Capítulo 01 - Desafio 02
+# Módulo 01 - Desafio 02
 
 Este repositório contem a resolução do segundo desafio (opicional) da trilha de ReactJS do curso Ignite.
 
